@@ -1,7 +1,7 @@
 # Portfolio
 
 - 真島祐志
-- 連絡先 Email [a@a.a](mailto:a@a.a)
+- 連絡先 Email [dat.gp1219@gmail.com](mailto:dat.gp1219@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
 
 ## 資格
@@ -10,43 +10,48 @@
 ## スキル
 - C#
   - 利用歴1年
-  - どの程度使えるか
+  - Unityのスクリプトに使用
 - Unity
   - 利用歴1年
-  - ゲーム作った
+  - オリジナルの個人/チーム作品の開発経験あり
 - C/C++
-  - 利用歴〇年
-  - どの程度使えるか
-- cluster
-  - 利用歴〇年
-  - どの程度使えるか
+  - 利用歴4年
+  - コンソールで簡単なデータ処理プログラムを開発
 
 ## 取り組んでいるテーマ
 - 何か最低一つ考えてください
 
 ## 作品リスト
 
-### 作品名1
-[<img src="images/game1.png" alt="作品名1" style="height: 360px">]()
+### 正しい扉
+[<img src="Images/Title.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
 
-[作品名1]()
-
-作品概要
-
-- 開発環境：
-- 開発期間：
-
-### 作品名2
-[<img src="images/game2.png" alt="作品名2" style="height: 360px">]()
-
-[作品名2]()
+[正しい扉](https://unityroom.com/games/tadasii)
 
 作品概要
 
-- 開発環境：
-- 開発期間：
+- 開発環境：Unity
+- 開発期間：10日
 
+### SuperUnitychanSisters1
+<img src="Images/game2.png" alt="SuperUnitychanSisters1" style="height: 240px">
 
+SuperUnitychanSisters1
+
+作品概要
+
+- 開発環境：Unity
+- 開発期間：約2か月
+
+### Yoketoru2021
+[<img src="Images/image.png" alt="Yoketoru2021" style="height: 240px">](https://unityroom.com/games/yoketoru2021_m)
+
+[Yoketoru2021](https://unityroom.com/games/yoketoru2021_m)
+
+作品概要
+
+- 開発環境：Unity
+- 開発期間：約1か月
 
 ## 連絡先
-- E-mail [a@a.a](mailto:a@a.a)
+- E-mail [dat.gp1219@gmail.com](mailto:dat.gp1219@gmail.com)
