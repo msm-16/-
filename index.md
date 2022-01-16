@@ -16,7 +16,7 @@
   - オリジナルの個人/チーム作品の開発経験あり
 - C/C++
   - 利用歴4年
-  - コンソールで簡単なデータ処理プログラムを開発
+  - コンソールで簡単なデータ処理プログラムができる
 
 ## 取り組んでいるテーマ
 - 何か最低一つ考えてください
@@ -32,6 +32,7 @@
 
 - 開発環境：Unity
 - 開発期間：10日
+- 個人制作
 
 ### SuperUnitychanSisters1
 <img src="Images/game2.png" alt="SuperUnitychanSisters1" style="height: 240px">
@@ -42,6 +43,7 @@ SuperUnitychanSisters1
 
 - 開発環境：Unity
 - 開発期間：約2か月
+- チーム制作
 
 ### Yoketoru2021
 [<img src="Images/image.png" alt="Yoketoru2021" style="height: 240px">](https://unityroom.com/games/yoketoru2021_m)
@@ -52,6 +54,7 @@ SuperUnitychanSisters1
 
 - 開発環境：Unity
 - 開発期間：約1か月
+- 個人制作
 
 ## 連絡先
 - E-mail [dat.gp1219@gmail.com](mailto:dat.gp1219@gmail.com)
