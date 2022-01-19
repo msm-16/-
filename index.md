@@ -42,7 +42,7 @@ SuperUnitychanSisters1
 
 - 開発環境：Unity
 - 開発期間：約2か月
-- チーム制作
+- チーム制作  プログラム担当
 
 ### Yoketoru2021
 [<img src="Images/image.png" alt="Yoketoru2021" style="height: 240px">](https://unityroom.com/games/yoketoru2021_m)
