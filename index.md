@@ -38,7 +38,7 @@
 - Unity 1週間ゲームジャム お題「ためる」
 
 ### flowerShop サイコトリップ 感情を持つ”3つの花”
-[<img src="Images/Title.png" alt="貯金" style="height: 240px">]()
+<img src="Images/Title.png" alt="サイコトリップ" style="height: 240px">
 
 作品概要
 
