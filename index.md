@@ -25,6 +25,18 @@
 
 [unityroom MASHIMA](https://unityroom.com/users/gxkhm78p51nuqca0ot9l)
 
+### 貯金
+[<img src="Images/Title.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
+
+[貯金](https://unityroom.com/games/tyokin)
+
+作品概要
+
+- 開発環境：Unity
+- 開発時間：4日
+- 個人制作
+- Unity 1週間ゲームジャム お題「ためる」
+
 ### 正しい扉
 [<img src="Images/Title.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
 
@@ -33,7 +45,7 @@
 作品概要
 
 - 開発環境：Unity
-- 開発時間：10日間
+- 開発時間：10日
 - 個人制作
 - 正月課題、Unity 1週間ゲームジャム お題「正」
 
@@ -45,7 +57,7 @@ SuperUnitychanSisters1
 作品概要
 
 - 開発環境：Unity
-- 開発時間：約20日間
+- 開発時間：約20日
 - チーム制作  プログラム担当
 - 学園祭展示
 
@@ -57,7 +69,7 @@ SuperUnitychanSisters1
 作品概要
 
 - 開発環境：Unity
-- 開発時間：約10日間
+- 開発時間：約10日
 - 個人制作
 - 夏休み課題
 
