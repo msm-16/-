@@ -37,7 +37,7 @@
 - 個人制作
 - Unity 1週間ゲームジャム お題「ためる」
 
-### PhycoTrip
+### flowerShop サイコトリップ 感情を持つ”3つの花”
 [<img src="Images/tyokin.png" alt="貯金" style="height: 240px">]
 
 作品概要
