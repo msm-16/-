@@ -47,7 +47,7 @@
 - チーム制作　プログラム担当
 
 ### 正しい扉
-[<img src="Images/Title.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
+[<img src="Images/tadasi.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
 
 [正しい扉](https://unityroom.com/games/tadasii)
 
