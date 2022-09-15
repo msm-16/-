@@ -25,13 +25,13 @@ string a = "これはC#(cs)書式の独立したコードブロックです。";
 [unityroom MASHIMA](https://unityroom.com/users/gxkhm78p51nuqca0ot9l)
 
 ## 画像
-![画像](Images/Title.png)
+![画像](Images/tadasi.png)
 
 画像はこのフォルダー内に含めて相対リンクで示す。
 
 マークダウン内にはimgタグが使える。画像のサイズ指定をしたい場合はimgタグを使う
 
-<img src="Images/Title.png" style="width: 320px">
+<img src="Images/tadasi.png" style="width: 320px">
 
 ## 箇条書き
 ### 通常リスト
