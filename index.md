@@ -38,7 +38,7 @@
 - Unity 1週間ゲームジャム お題「ためる」
 
 ### 機械戦線 -liberators-
-<img src="Images/.png" alt="機械戦線" style="height: 240px">
+<img src="Images/kikaisensen.png" alt="機械戦線" style="height: 240px">
 
 作品概要
 
