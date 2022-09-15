@@ -37,6 +37,16 @@
 - 個人制作
 - Unity 1週間ゲームジャム お題「ためる」
 
+### 機械戦線 -liberators-
+<img src="Images/Title.png" alt="機械戦線" style="height: 240px">
+
+作品概要
+
+- 開発環境：Unity
+- 開発時間：開発中
+- チーム制作　プログラム担当
+- 卒業制作
+
 ### flowerShop サイコトリップ 感情を持つ”3つの花”
 <img src="Images/Title.png" alt="サイコトリップ" style="height: 240px">
 
