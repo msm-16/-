@@ -37,6 +37,15 @@
 - 個人制作
 - Unity 1週間ゲームジャム お題「ためる」
 
+### PhycoTrip
+[<img src="Images/tyokin.png" alt="貯金" style="height: 240px">]
+
+作品概要
+
+- 開発環境：Unity
+- 開発時間：開発中
+- チーム制作　プログラム担当
+
 ### 正しい扉
 [<img src="Images/Title.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
 
