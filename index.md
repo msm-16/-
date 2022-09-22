@@ -1,5 +1,3 @@
-# ポートフォリオ
-
 - 真島祐志
 - 連絡先 Email [dat.gp1219@gmail.com](mailto:dat.gp1219@gmail.com)
 - 専門学校デジタルアーツ東京 ゲームプログラムコース 2023年卒業予定
