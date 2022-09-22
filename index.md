@@ -32,8 +32,8 @@
 [貯金](https://unityroom.com/games/tyokin)<br>
 [ソースコード](https://github.com/msm-16/source-code)
 
-作品概要
-時間内にどれだけ貯金できるか
+作品概要<br>
+時間内でたくさん貯金するゲーム
 
 - 開発環境：Unity
 - 開発開始時期：2022年9月
@@ -43,20 +43,23 @@
 <br>
 
 ### Unityでゲームのガチャシステム
-[サイト](https://qiita.com/msm_dat/items/3ccc60dd0836240b7321)<br>
+[Unityでゲームのガチャシステム](https://qiita.com/msm_dat/items/3ccc60dd0836240b7321)<br>
 
-作品概要
+作品概要<br>
+どうすればゲームのガチャシステムが再現できるのかを調べ、<br>
+実際にあるゲームのガチャ内容を参考に制作してみました。
 
 - 開発環境：Unity
 - 開発開始時期：2022年8月
 - 開発時間：4日
-- 個人制作
+- 個人研究
 <br>
 
 ### 機械戦線 -liberators-
 <img src="Images/kikaisensen.png" alt="機械戦線" style="height: 240px">
 
-作品概要
+作品概要<br>
+3Dアクションゲーム
 
 - 開発環境：Unity
 - 開発開始時期：2022年5月
@@ -69,6 +72,7 @@
 <img src="Images/Title.png" alt="サイコトリップ" style="height: 240px">
 
 作品概要
+ノベル育成ゲーム
 
 - 開発環境：Unity
 - 開発開始時期：2022年2月
@@ -83,6 +87,7 @@
 [ソースコード](https://github.com/msm-16/source-code)
 
 作品概要
+時間内に5つの部屋から正解の部屋を探す。
 
 - 開発環境：Unity
 - 開発開始時期：2021年12月
@@ -96,7 +101,8 @@
 
 SuperUnitychanSisters1
 
-作品概要
+作品概要<br>
+敵や障害物を避けてゴールを目指すプラットフォームゲーム。
 
 - 開発環境：Unity
 - 開発開始時期：2021年10月
@@ -111,7 +117,8 @@ SuperUnitychanSisters1
 [Yoketoru2021](https://unityroom.com/games/yoketoru2021_m)<br>
 [ソースコード](https://github.com/msm-16/source-code)
 
-作品概要
+作品概要<br>
+60秒間敵をよけるながらアイテムをとるゲーム
 
 - 開発環境：Unity
 - 開発開始時期：2021年7月
