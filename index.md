@@ -19,7 +19,8 @@
   - Visual Studioで簡単なデータ処理プログラムができる
 
 ## 取り組んでいるテーマ
-- ノベルゲームの制作
+- ノベル育成ゲームの制作
+- 3Dアクションゲームの制作
 
 ## 作品リスト
 
@@ -37,6 +38,15 @@
 - 開発時間：4日
 - 個人制作
 - Unity 1週間ゲームジャム お題「ためる」
+
+### Unityでゲームのガチャシステム
+[サイト](https://qiita.com/msm_dat/items/3ccc60dd0836240b7321)<br>
+
+作品概要
+
+- 開発環境：Unity
+- 開発時間：4日
+- 個人制作
 
 ### 機械戦線 -liberators-
 <img src="Images/kikaisensen.png" alt="機械戦線" style="height: 240px">
