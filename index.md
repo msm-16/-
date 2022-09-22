@@ -105,8 +105,6 @@
 ### SuperUnitychanSisters1
 <img src="Images/DATposter.png" alt="SuperUnitychanSisters1" style="height: 240px">
 
-SuperUnitychanSisters1
-
 #### 作品概要<br>
 敵や障害物を避けてゴールを目指すプラットフォームゲーム。
 
