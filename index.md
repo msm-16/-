@@ -70,19 +70,6 @@
 <br>
 <hr>
 
-### flowerShop サイコトリップ 感情を持つ”3つの花”
-<img src="Images/Title.png" alt="サイコトリップ" style="height: 240px">
-
-#### 作品概要
-ノベル育成ゲーム
-
-- 開発環境：Unity
-- 開発開始時期：2022年2月
-- 開発時間：開発中
-- チーム制作　プログラム担当
-<br>
-<hr>
-
 ### 正しい扉
 [<img src="Images/tadasi.png" alt="正しい扉" style="height: 240px">](https://unityroom.com/games/tadasii)
 
